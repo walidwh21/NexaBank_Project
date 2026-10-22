@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="NexaBank">
+  <rect width="64" height="64" rx="16" fill="#0F8B8D"/>
+  <path d="M18 46V18h6.2l15.6 20.6V18H46v28h-6.1L24.4 25.4V46z" fill="#FFFFFF"/>
+  <circle cx="47" cy="47" r="4.5" fill="#E3A72F"/>
+</svg>

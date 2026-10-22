@@ -1,0 +1,11 @@
+# build output
+backend/target/
+frontend/dist/
+frontend/.angular/
+node_modules/
+# IDE / OS
+.idea/
+.vscode/
+*.iml
+.DS_Store
+*.log
